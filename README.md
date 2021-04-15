@@ -1,1 +1,3 @@
 # Analyzing-the-Impact-of-Syrian-Refugees-on-Fear-of-Crime-in-Turkey
+
+The forced migration of individuals and groups in the world has increased substantially amid extensive regional and international conflicts. A prime example is the continuing civil war in Syria, during which Turkey has become the host country for more Syrian refugees than any other country in the region. Research on fear of crime has focused mainly on fear of crime in general rather than on fear of crime being committed by specific groups of individuals with a shared identity. In this project I used survey data to investigate the extent to which the general crime fear among Turkish citizens differs from their fear that Syrian refugees in the country may commit a crime. 
